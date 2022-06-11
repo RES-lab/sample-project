@@ -1,3 +1,4 @@
+
 # ic-notes
 This app uses Internet Computer's motoko language along side Angular
 
@@ -55,3 +56,5 @@ This app uses Internet Computer's motoko language along side Angular
 - [Motoko Programming Language Guide](https://sdk.dfinity.org/docs/language-guide/motoko.html)
 - [Motoko Language Quick Reference](https://sdk.dfinity.org/docs/language-guide/language-manual.html)
 - [JavaScript API Reference](https://erxue-5aaaa-aaaab-qaagq-cai.raw.ic0.app)
+=======
+# projectWithFrontEnd
